@@ -41,7 +41,7 @@ class Footer extends React.Component {
           </div>
           <div>
               <h5>Chat with us on Discord</h5>
-              <a href="https://discord.gg/2ccFBr4"><img src="https://img.shields.io/discord/629491597070827530?logo=discord&style=social" alt="discord"/></a>
+              <a href="https://discord.gg/zio"><img src="https://img.shields.io/discord/629491597070827530?logo=discord&style=social" alt="discord"/></a>
           </div>
           <div>
               <h5>Follow us on Twitter</h5>
